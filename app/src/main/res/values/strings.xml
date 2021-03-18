@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PayPay Challenge</string>
+    <string name="job_name">Exchange Rate Service</string>
+
+    <string name="amount_hint">Amount</string>
+    <string name="amount_text">%1$.2f</string>
+    <string name="error_message">An error occurred. Please try again later.</string>
+</resources>
